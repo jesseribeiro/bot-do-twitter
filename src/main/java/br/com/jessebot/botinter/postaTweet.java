@@ -67,6 +67,7 @@ public class postaTweet {
 
         if (POSTAR_TWEET) {
             TWITTER_CLIENT.postTweet(novoTweet);
+            LOG.info(novoTweet);
             LOG.info("Tweet postado.");
         } else {
             LOG.info("Não postou tweet porque está configurado assim.");
