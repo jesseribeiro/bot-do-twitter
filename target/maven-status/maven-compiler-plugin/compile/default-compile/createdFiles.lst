@@ -1,0 +1,4 @@
+br\com\jessebot\botinter\ResourceUtil.class
+br\com\jessebot\botinter\BotinterApplication.class
+br\com\jessebot\botinter\postaTweet.class
+br\com\jessebot\botinter\Dados.class
