@@ -61,7 +61,7 @@ public class postaTweet {
             return;
         }*/
 
-        String novoTweet = montarNovoTweet(); // ALTERE O INTERIOR DESTE MÉTODO!
+        String novoTweet = montarNovoTweet();
 
         mostrarNoNavegador(novoTweet);
 
