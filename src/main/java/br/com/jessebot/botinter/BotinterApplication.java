@@ -18,7 +18,6 @@ public class BotinterApplication implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws IOException {
-		postaTweet.executar();
 		/*
 		RequestMessageDTO dto = new RequestMessageDTO();
 		dto.setTo("conceicao.roberto@gmail.com");
